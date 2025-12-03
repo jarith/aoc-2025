@@ -1,4 +1,4 @@
-(ns day1.core
+(ns day1.part2
   (:require [clojure.java.io :as io]))
 
 (defn parse-line [line]
